@@ -1,6 +1,6 @@
 ### Hi My name is Seo Inseog 👋
 
-![header](https://capsule-render.vercel.app/api?type=wave)
+![header](https://capsule-render.vercel.app/api?type=Cylinder)
 
 <!--
 **seog2/seog2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

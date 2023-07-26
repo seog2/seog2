@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 
 <!--

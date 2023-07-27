@@ -1,13 +1,13 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=920108&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=92%20Seo%20In%20Seog&fontColor=ffffff&fontSize=45&animation=twinkling&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ####  :wave: Hi, there is my github profile
   
  <br/>
  <br/>
   
-####  :clipboard: Once I've Used 
+####  👇 Used Languge and Tool 
   
  <br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
